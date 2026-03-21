@@ -23,6 +23,12 @@ export default {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
         },
+        sandy: {
+          DEFAULT: "hsl(var(--sandy))",
+          light: "hsl(var(--sandy-light))",
+        },
+        terracotta: "hsl(var(--terracotta))",
+        bark: "hsl(var(--bark))",
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
           foreground: "hsl(var(--secondary-foreground))",
